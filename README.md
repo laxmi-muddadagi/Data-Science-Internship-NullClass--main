@@ -95,7 +95,7 @@ During this internship, I gained practical experience in developing advanced AI 
 
 ## Author
 
-Sakshi jadhav
+Laxmi Muddadagi
 ```
 Data Science Intern | Null Class Internship
 ```
